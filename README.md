@@ -1,7 +1,7 @@
 #  Logestic_Regression
 This is the repo I have store my all tasks, during practice
 
-# ==========================================
+# ====================================
 
 #  Prediction using Supervised ML (Level – Beginner)
 # Task : Predict for the customers who were contacted during  the campaign, whether they will buy car insurance or not
